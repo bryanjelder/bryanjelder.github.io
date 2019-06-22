@@ -4,7 +4,9 @@ header {
 target {
   display: inline;
   }
-  
+  li {
+    display: inline;
+  }
   
 p {
   color: Black;
