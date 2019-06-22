@@ -2,10 +2,10 @@ header {
   font-family: Georgia, serif;
   font-size: 50px;
   
-  #tjobs ul{
-  list-sytle: none;
+#tjobs ul{
+  list-style: none;
   }  
-  #tjobs li{
+#tjobs li{
   display: inline;
   }
   
