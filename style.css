@@ -1,13 +1,9 @@
 header {
   font-family: Georgia, serif;
   font-size: 50px;
-target {
+#target {
   display: inline;
   }
-  ul {
-    display: inline;
-  }
-  
 p {
   color: Black;
   }
