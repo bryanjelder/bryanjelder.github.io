@@ -2,6 +2,10 @@ header {
   font-family: Georgia, serif;
   font-size: 50px;
   
+ul#tjobs li {
+  display:inline;
+}
+  
 p {
   color: Black;
   }
