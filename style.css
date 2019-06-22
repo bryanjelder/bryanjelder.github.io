@@ -1,8 +1,8 @@
 header {
   font-family: Georgia, serif;
   font-size: 50px;
-ul {
-  display: inline;
+ul#targetjobs {
+  display:inline;
   }
 p {
   color: Black;
