@@ -2,7 +2,7 @@ header {
   font-family: Georgia, serif;
   font-size: 50px;
   
-ul#target li {
+ul{
   display: inline;
   list-style-type: none;
 }
