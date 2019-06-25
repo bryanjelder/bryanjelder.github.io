@@ -2,6 +2,7 @@ header
 {
   font-family: Georgia, serif;
   font-size: 45px;
+  text-align: center;
 }
 
 li 
@@ -18,4 +19,9 @@ p
 .col-sm-6
 {
   float: left;
+}
+
+h3
+{
+  text-decoration: underline;
 }
