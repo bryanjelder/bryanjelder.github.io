@@ -13,4 +13,5 @@ li
 p {
   color: Black;
   margin: 50px;
+  flex-wrap: wrap;
   }
