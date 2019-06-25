@@ -10,7 +10,12 @@ li
   display: inline;
   list-style-type: none;
 }
-  
+
+.bryan
+{
+  display: block
+}
+
 p 
 {
   color: Black;
