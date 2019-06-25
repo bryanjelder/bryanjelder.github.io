@@ -10,11 +10,12 @@ li
   list-style-type: none;
 }
   
-p {
+p 
+{
   color: Black;
   }
 
-.row
+.col-sm-6
 {
   float: left;
 }
