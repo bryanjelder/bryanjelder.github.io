@@ -1,3 +1,8 @@
+body
+{
+  font-family: Georgia, serif;
+}
+
 header 
 {
   font-size: 45px;
@@ -36,9 +41,4 @@ h3
 {
   text-align: left;
   font-size: 20px;
-}
-
-body
-{
-  font-family: Georgia, serif;
 }
