@@ -1,3 +1,8 @@
+body
+{
+  background: url(paper background.jpg); 
+}
+
 .container-fluid
 {
   font-family: Georgia, serif;
