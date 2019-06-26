@@ -29,6 +29,7 @@ li
 p 
 {
   color: Black;
+  text-align: justify;
   }
 
 .col-sm-6
@@ -45,6 +46,6 @@ h1
 
 h3
 {
-  text-align: left;
+  text-align: justify;
   font-size: 18px;
 }
