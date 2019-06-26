@@ -29,7 +29,7 @@ p
 {
   color: Black;
   text-align: justify;
-  width: 40px;
+  width: 200px;
   }
 
 .col-sm-6
@@ -46,6 +46,5 @@ h1
 
 h3
 {
-  text-align: justify;
   font-size: 18px;
 }
