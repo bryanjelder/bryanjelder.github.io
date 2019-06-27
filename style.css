@@ -3,7 +3,7 @@ body {
   background-size: cover;
   border-width: 30px;
   border-style: solid;
-  border-image: url(../images/677847.jpg) stretch;
+  border-image: url(../images/677847.jpg) 100% round;
 }
 
 .container-fluid
