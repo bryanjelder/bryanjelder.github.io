@@ -1,7 +1,7 @@
 body {
   background: url(../images/paper_background.jpg) no-repeat center fixed; 
   background-size: cover;
-  border-image: url(../images/677847.jpg);
+  border-image: url(../images/677847.jpg) 30;
   border: 10px solid transparent;
 }
 
