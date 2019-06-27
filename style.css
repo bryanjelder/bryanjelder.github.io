@@ -1,7 +1,7 @@
 body {
   background: url(../images/paper_background.jpg) no-repeat center fixed; 
   background-size: cover;
-  border-width: 50px;
+  border-width: 30px;
   border-style: solid;
   border-image: url(../images/677847.jpg) stretch;
 }
