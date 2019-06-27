@@ -1,9 +1,8 @@
 body {
   background: url(../images/paper_background.jpg) no-repeat center fixed; 
   background-size: cover;
-  border-style: solid;
-  border-width: 20px;
-  border-color: black;
+  border-image: (../images/677847.jpg)
+  border: 10px solid transparent;
 }
 
 .container-fluid
