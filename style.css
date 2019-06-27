@@ -1,6 +1,7 @@
 body {
   background: url(../images/paper_background.jpg) no-repeat center fixed; 
   background-size: cover;
+  border: black 20px;
 }
 
 .container-fluid
